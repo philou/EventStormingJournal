@@ -1,7 +1,7 @@
 ---
 layout: single-mailing-list
 title: 'Remote Event Storming: Making Virtual Workshops Fun and Productive'
-date: "2026-03-31"
+date: "2026-12-31"
 author: Philippe Bourgau
 comments: true
 categories:
@@ -16,7 +16,14 @@ header:
   teaser: "/imgs/2026-03-17-remote-event-storming-making-virtual-workshops-fun-and-productive/remote-event-storming-exhausted-teaser.jpg"
   og_image: "/imgs/2026-03-17-remote-event-storming-making-virtual-workshops-fun-and-productive/remote-event-storming-exhausted-og.jpg"
 variations:
-- TODO extracts from the post to regularly tweet
+- "Ever tried to keep a toddler entertained during a long car ride? #remote workshops can feel just like that! Learn how to keep people engaged. #eventStorming #facilitation #eventStormingJournal #ddd #DomainDrivenDesign"
+- "To keep people engaged, make sure you invite the right people for the right topic. The #workshop matters to the participants! #remote #eventStorming #facilitation #eventStormingJournal #ddd #DomainDrivenDesign"
+- "Remind participants to keep webcams on and assign collaboration roles in breakout rooms. It's harder to multitask with the webcam on! #remote #eventStorming #workshop #facilitation #eventStormingJournal #ddd #DomainDrivenDesign"
+- "Are people struggling to stay engaged during the entire sessions? Consider running shorter sessions to keep energy high. #remote #eventStorming #workshop #facilitation #eventStormingJournal #ddd #DomainDrivenDesign"
+- "Create 'co-working and break hubs' where people can work from the same place and take breaks together. Still run the #workshop remote-first, though! #remote #eventStorming #facilitation #eventStormingJournal #ddd #DomainDrivenDesign"
+- "Use Energizers to make people active right away. They should be very short and related to the #workshop! #remote #eventStorming #facilitation #eventStormingJournal #ddd #DomainDrivenDesign"
+- "Don't use a single remote-robot for your #eventStorming. Keep it #remote first with 'co-working and break hubs' instead! #workshop #facilitation #eventStormingJournal #ddd #DomainDrivenDesign"
+- "Making #remote workshops engaging makes your #eventStorming sessions more productive, enjoyable, and sustains the practice over the long run! #workshop #facilitation #eventStormingJournal #ddd #DomainDrivenDesign"
 ---
 _Struggling with passive attendees in remote sessions? Discover practical tips to boost engagement and make virtual Event Storming both fun and productive._
 
@@ -24,24 +31,24 @@ _Struggling with passive attendees in remote sessions? Discover practical tips t
 
 > Ever tried to keep a toddler entertained during a long car ride? Remote workshops can feel just like that, but with adults!
 
-It’s difficult to keep people’s attention during remote workshops. People will either lose focus, multitask, get bored, become passive, or simply quit. Plus, it's awful as a facilitator: it's demotivating and takes away all the fun of facilitation! Here are tips to make remote sessions engaging and energized. In short: less boring and more fun!
+It’s difficult to keep people’s attention during remote workshops. People will either lose focus, multitask, get bored, become passive, or simply quit. Plus, it's awful as a facilitator: it's demotivating and takes away all the fun of facilitation! Here are tips to make remote sessions engaging and energized. In short: **less boring and more fun!**
 
 ## Practices to keep people engaged
 
-The most important advice is that the workshop matters to the participants! So make sure you invite the right people for the right topic! Here are more practical tips to keep people engaged:
+The most important advice is that **the workshop matters to the participants!** So make sure you invite the right people for the right topic! Here are more practical tips to keep people engaged:
 
-1.   Before the workshop, include the rules of the game in the invite. ex: "You can plan to do something else in parallel as we will be working remotely... but we won't give you much space to do so, as you will need to be active most of the time!"
-2.   Ask people to turn on their webcams at each session. It’s harder to do something else at the same time with the webcam on.
-3.   Did we already mention that general advice is to keep people active as much as possible 😉? So use Breakout Rooms whenever possible.
-4.   Remind participants to keep webcams on and assign collaboration roles in breakout rooms. (See [Remote Event Storming Simplified: 7 Essential Practices](https://file+.vscode-resource.vscode-cdn.net/Users/philou/Code/EventStormingJournal/_posts/%7B%7Bsite.url%7D%7D%7B%7Bsite.baseurl%7D%7D/remote%20facilitation/remote-event-storming-simplified-7-essential-practices/#assign-collaboration-roles).)
-5.   Before they leave for breakout rooms, tell them you will ask someone to present what their group did. If no one volunteers, just pick a group member at random.
-6.   Rely on Silent Sorting as much as possible to merge the outcomes from different rooms. (See [Remote Event Storming Simplified: 7 Essential Practices](https://file+.vscode-resource.vscode-cdn.net/Users/philou/Code/EventStormingJournal/_posts/%7B%7Bsite.url%7D%7D%7B%7Bsite.baseurl%7D%7D/remote%20facilitation/remote-event-storming-simplified-7-essential-practices/#merge-work-with-silent-sorting).)
-7.   Ask questions directly to people, naming them (For example: What do you think, Paul?)
-8.   Are people struggling to stay engaged during the entire sessions? Consider running shorter sessions.
-9.   Is energy going really low? It’s better to take a 5-minute coffee break than to try to continue on “exhaustion mode.”
-10.   Here is a great opportunity for attendees spread across different offices. Create “co-working and break hubs” where people can work from the same place and take breaks together. Still run the workshop remote-first, though. Book rooms and order food to make it real!
-11.   Do micro-retrospectives at the end of sessions
-12.   Communicate widely in the organization about the event as it unfolds. This creates social pressure for people to show progress.
+1.   Before the workshop, **include the rules of the game in the invite**. ex: "You can plan to do something else in parallel as we will be working remotely... but we won't give you much space to do so, as you will need to be active most of the time!"
+2.   **Ask people to turn on their webcams** at each session. It’s harder to do something else at the same time with the webcam on.
+3.   Did we already mention that general advice is to keep people active as much as possible 😉? So **use Breakout Rooms whenever possible**.
+4.   Remind participants to keep webcams on and **assign collaboration roles in breakout rooms**. (See [Remote Event Storming Simplified: 7 Essential Practices](https://file+.vscode-resource.vscode-cdn.net/Users/philou/Code/EventStormingJournal/_posts/%7B%7Bsite.url%7D%7D%7B%7Bsite.baseurl%7D%7D/remote%20facilitation/remote-event-storming-simplified-7-essential-practices/#assign-collaboration-roles).)
+5.   Before they leave for breakout rooms, **tell them you will ask someone to present** what their group did. If no one volunteers, just pick a group member at random.
+6.   **Rely on Silent Sorting** as much as possible to merge the outcomes from different rooms. (See [Remote Event Storming Simplified: 7 Essential Practices](https://file+.vscode-resource.vscode-cdn.net/Users/philou/Code/EventStormingJournal/_posts/%7B%7Bsite.url%7D%7D%7B%7Bsite.baseurl%7D%7D/remote%20facilitation/remote-event-storming-simplified-7-essential-practices/#merge-work-with-silent-sorting).)
+7.   **Ask questions directly to people**, naming them (For example: What do you think, Paul?)
+8.   Are people struggling to stay engaged during the entire sessions? **Consider running shorter sessions**.
+9.   Is energy going really low? It’s better to **take a 5-minute coffee break** than to try to continue on “exhaustion mode.”
+10.   Here is a great opportunity for attendees spread across different offices. **Create “co-working and break hubs”** where people can work from the same place and take breaks together. Still run the workshop remote-first, though. Book rooms and order food to make it real!
+11.   **Do micro-retrospectives** at the end of sessions
+12.   **Communicate widely in the organization** about the event as it unfolds. This creates social pressure for people to show progress.
 
 ![Photo of a teapot and tea cups on a table. It's always good to prepare food and drinks for local "co-working and break hubs".]({{site.url}}{{site.baseurl}}/imgs/2026-03-17-remote-event-storming-making-virtual-workshops-fun-and-productive/local-break-hub.jpg)
 
@@ -49,19 +56,19 @@ The most important advice is that the workshop matters to the participants! So m
 
 As the topic is about keeping people engaged, energizers can help. Irrelevant energizers can be annoying, though! You can use energizers wisely to kick-start every session. Here is our advice for energizers:
 
-*   Use Energizers to make people active right away.
-*   Energizers should be very short.
-*   Energizers should be related to the workshop.
+*   Use Energizers to **make people active right away**.
+*   Energizers should be **very short**.
+*   Energizers should be **related to the workshop**.
 
 Here are two examples of energizers for the first session:
 
-*   In breakout rooms or pairs, ask participants to share what they know about Event Storming and DDD.
-*   If the group does not know each other at all, asking them to answer a personal question can break the ice. For example "What was your first job?". Check [The 25 Best Icebreaker Questions For Team Building](https://canopy.is/blog/2018/01/08/the-25-best-icebreaker-questions-for-team-building-at-work/) for more ideas. Breakout rooms of pairs or trios are great for this.
+*   In breakout rooms or pairs, **ask participants to share what they know** about Event Storming and DDD.
+*   If the group does not know each other at all, **asking them to answer a personal question** can break the ice. For example "What was your first job?". Check [The 25 Best Icebreaker Questions For Team Building](https://canopy.is/blog/2018/01/08/the-25-best-icebreaker-questions-for-team-building-at-work/) for more ideas. Breakout rooms of pairs or trios are great for this.
 
 For follow-up sessions, you can:
 
-*   Ask someone to summarize the previous session in one minute at the beginning of the next session.
-*   Ask participants to do the same by themselves in breakout rooms of three.
+*   **Ask someone to summarize the previous session** in one minute at the beginning of the next session.
+*   **Ask participants to do the same by themselves** in breakout rooms of three.
 
 Remote work can feel isolating. These two minutes of interaction remind everyone that we are a humans, not just icons on a board.
 
@@ -84,10 +91,10 @@ Note: We did not test with a professional robot, so it may work with a better on
 
 It turns out making remote workshops engaging is not only about "making it work". It also brings massive advantages:
 
-*   Obviously, it makes sessions more productive, so you'll get results sooner!
-*   Also, it makes work feel interesting and enjoyable!
-*   Over the long run, it sustains the Event Storming practice. People are more likely to run another similar workshop if they have a good memory of the previous one.
-*   Finally, as a facilitator, it keeps you energized, motivated. You might feel that you are getting participants through "an experience"!
+*   Obviously, it **makes sessions more productive**, so you'll get results sooner!
+*   Also, it **makes work feel interesting and enjoyable**!
+*   Over the long run, it **sustains the Event Storming practice**. People are more likely to run another similar workshop if they have a good memory of the previous one.
+*   Finally, as a facilitator, it **keeps you energized, motivated**. You might feel that you are getting participants through "an experience"!
 
 ## You're ready!
 
@@ -96,3 +103,7 @@ It turns out making remote workshops engaging is not only about "making it work"
 This was our final post about facilitating remote Event Storming workshops. If you read all the others, you know everything you need to run great remote sessions. 
 
 The next post will be a summary of all the remote Event Storming series.
+
+----
+
+_This blog post is part of the [1h Event Storming book]({{site.url}}{{site.baseurl}}/1h-event-storming-book/) that we are currently writing._
