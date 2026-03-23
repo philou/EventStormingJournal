@@ -72,7 +72,7 @@ For follow-up sessions, you can:
 
 Remote work can feel isolating. These two minutes of interaction remind everyone that we are a humans, not just icons on a board.
 
-## Anti-pattern: add a single remote participant
+## Anti-pattern: Add A Single Remote Participant
 
 ![Photo of a remote robot standing in the middle of a bright open space. We can see the face of a remote worker through the robot's screen. We tried something like this in an Event Storming workshop, but it was not successful.]({{site.url}}{{site.baseurl}}/imgs/2026-03-17-remote-event-storming-making-virtual-workshops-fun-and-productive/remote-robot.jpg)
 
