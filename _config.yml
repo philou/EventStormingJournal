@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "murex" # "default" "air", "aqua", "contrast", "dark"
 locale                   : "en-US"
 title                    : "Event Storming Journal"
 title_separator          : "|"
-name                     : "Murex" # will appear in the footer copyright mention
+name                     : "Murex, Philippe Bourgau" # will appear in the footer copyright mention
 description              : Event Storming in Practice"
 url                      : "https://www.eventstormingjournal.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
                            # Used to be "http://murex.github.io" when serving on murex.github.io/EventStormingJournal/
@@ -135,9 +135,6 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       #url: "https://www.youtube.com/"
-    - label: "Murex"
-      icon: "fas fa-fw fa-building"
-      url: "https://www.murex.com/"
 
 
 # Site Footer
