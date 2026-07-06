@@ -17,7 +17,7 @@ In the blog, you will:
 - Learn how to run your own workshop with full Event Storming guides
 - Benefit from tips to run your Event Storming sessions
 
-This blog is open source, which means that contributions and guest posts are welcome! If you wish to help us, checkout the [GitHub Repo](https://github.com/murex/EventStormingJournal).
+This blog is open source, which means that contributions and guest posts are welcome! If you wish to help us, checkout the [GitHub Repo](https://github.com/philou/EventStormingJournal).
 
 [comment]: # Duplicated in 1h-event-storming-book.md
 ## Who is this blog for?

@@ -115,7 +115,7 @@ This script uses [inotify-win](https://github.com/thekid/inotify-win): a BSD lic
 
 [[.github\workflows\bookdown.yml]] is setup to generate the epub on every commit to master through github action. The generated epub is uploaded as a build artifact on github.
 
-You can find the latest version by clicking on the latest build in the [workflow page](https://github.com/murex/EventStormingJournal/actions/workflows/bookdown.yml)
+You can find the latest version by clicking on the latest build in the [workflow page](https://github.com/philou/EventStormingJournal/actions/workflows/bookdown.yml)
 
 The next page has a section at the bottom where we can download a zip of the book. (see [Where does the upload go](https://github.com/actions/upload-artifact#where-does-the-upload-go) for more details).
 

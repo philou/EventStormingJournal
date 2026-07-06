@@ -20,10 +20,10 @@ title_separator          : "|"
 name                     : "Murex, Philippe Bourgau" # will appear in the footer copyright mention
 description              : Event Storming in Practice"
 url                      : "https://www.eventstormingjournal.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-                           # Used to be "http://murex.github.io" when serving on murex.github.io/EventStormingJournal/
+                           # Used to be "http://philou.github.io" when serving on philou.github.io/EventStormingJournal/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-                           # Used to be "/EventStormingJournal" when serving on murex.github.io/EventStormingJournal/
-repository               : "murex/EventStormingJournal"
+                           # Used to be "/EventStormingJournal" when serving on philou.github.io/EventStormingJournal/
+repository               : "philou/EventStormingJournal"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/murex/EventStormingJournal"
+      url: "https://github.com/philou/EventStormingJournal"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/feed/hashtag/?keywords=EventStormingJournal"
@@ -148,7 +148,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/murex/EventStormingJournal"
+      url: "https://github.com/philou/EventStormingJournal"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
